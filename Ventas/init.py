@@ -133,17 +133,6 @@ class Archivo:
         except Exception as error:
             print(error)
 
-    # def agregarPersona(self, persona):
-    #     try:
-    #         file = open(self.nombreArchivo, 'a')
-    #         textoAgregar = "{},{},{} \n".format(persona.nombre, persona.sexo, persona.dni)
-    #         file.write(textoAgregar)
-    #     except Exception as ex:
-    #         print(ex)
-    #     finally:
-    #         file.close()
-    #         print(file)
-
 
 class Menu:
     def __init__(self, name, op_list, pre_menu=0):

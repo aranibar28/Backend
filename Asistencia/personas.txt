@@ -1,0 +1,1 @@
+[{"nombre": "Gerson", "sexo": "M", "dni": "70800756", "codEmpleado": 3}, {"nombre": "Maribel", "sexo": "F", "dni": "43474036", "codEmpleado": 3}]
